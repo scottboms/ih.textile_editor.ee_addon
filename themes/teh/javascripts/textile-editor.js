@@ -30,7 +30,7 @@ todo:
 
 more on textile:
  - Textism, http://www.textism.com/tools/textile/index.php
- - Textile Reference, http://hobix.com/textile/
+ - Textile Reference, http://redcloth.org/hobix.com/textile/
 
 --------------------------------------------------------------
 
